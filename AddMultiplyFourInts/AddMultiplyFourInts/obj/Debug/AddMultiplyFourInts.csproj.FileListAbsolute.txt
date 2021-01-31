@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe.config
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.pdb
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.exe
+C:\Users\Ryan\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.pdb

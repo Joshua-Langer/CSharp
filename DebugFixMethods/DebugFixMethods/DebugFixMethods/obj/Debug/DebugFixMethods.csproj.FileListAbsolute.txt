@@ -1,0 +1,12 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.pdb
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe.config
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.pdb
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.csprojAssemblyReference.cache
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.csproj.CoreCompileInputs.cache
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.exe
+D:\School\IT230\Week 3\it230_coding_activity_module_three_debug_fix_methods\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.pdb

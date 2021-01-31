@@ -1,0 +1,12 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csprojAssemblyReference.cache
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.CoreCompileInputs.cache
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+D:\School\IT230\Week 4\it230_coding_activity_module_four_debug_fix_ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
